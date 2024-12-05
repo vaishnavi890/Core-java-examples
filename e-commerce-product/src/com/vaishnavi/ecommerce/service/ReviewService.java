@@ -1,6 +1,7 @@
 package com.vaishnavi.ecommerce.service;
-import com.vaishnavi.ecommerce.model.Product;
+
 import com.vaishnavi.ecommerce.model.Review;
+
 import java.util.Scanner;
 
 
